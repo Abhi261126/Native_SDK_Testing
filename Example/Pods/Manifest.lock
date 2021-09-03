@@ -1,0 +1,16 @@
+PODS:
+  - Native_SDK (0.1.0)
+
+DEPENDENCIES:
+  - Native_SDK (from `../`)
+
+EXTERNAL SOURCES:
+  Native_SDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Native_SDK: 10bed759c69fa28f9b82c7e8d0267666703d2b32
+
+PODFILE CHECKSUM: 9a192e129b5647720a313e9163457bd63186dfa4
+
+COCOAPODS: 1.11.0

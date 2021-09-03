@@ -1,0 +1,6 @@
+framework module Native_SDK {
+  umbrella header "Native_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
