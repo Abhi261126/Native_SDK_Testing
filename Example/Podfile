@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'Native_SDK_Example' do
+  pod 'Native_SDK', :path => '../'
+
+  target 'Native_SDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
