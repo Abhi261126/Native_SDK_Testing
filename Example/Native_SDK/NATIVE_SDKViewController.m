@@ -7,7 +7,6 @@
 //
 
 #import "NATIVE_SDKViewController.h"
-#import "React/RCTRootView.h"
 
 @interface NATIVE_SDKViewController ()
 
