@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "13.0"
   },
+  "dependencies": {
+    "React": [
+
+    ]
+  },
   "source_files": "Native_SDK/Classes/**/*"
 }

@@ -1,16 +1,25 @@
 PODS:
-  - Native_SDK (0.1.0)
+  - Native_SDK (0.1.0):
+    - React
+  - React (0.11.0):
+    - React/Core (= 0.11.0)
+  - React/Core (0.11.0)
 
 DEPENDENCIES:
   - Native_SDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - React
 
 EXTERNAL SOURCES:
   Native_SDK:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Native_SDK: a7d493ad1bff84516cd08f1afccabce5121f54a9
+  Native_SDK: 68473d30b7b20bdb4158d85cecc4fb983fdd9f12
+  React: ab1a2e21deb34965c38328d5ec40cc7d12c6050a
 
-PODFILE CHECKSUM: 0b88c608e6dbd750179e8993bd955d163b5ca586
+PODFILE CHECKSUM: bbf1d7bab4eb2b9b7c4d30cae49ef1a6cd70cb95
 
 COCOAPODS: 1.11.0

@@ -4,6 +4,8 @@ platform :ios, '13.0'
 
 target 'Native_SDK_Example' do
   pod 'Native_SDK', :path => '../'
+  #pod 'Native_SDK'
+
 #  pod 'React', :path => '../../node_modules/react-native/'
 #    pod 'React-Core', :path => '../../node_modules/react-native/'
 #    pod 'React-Core/DevSupport', :path => '../../node_modules/react-native/'
